@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160">
+  <defs>
+    <mask id="m">
+      <path fill="#fff" d="M0 0H120V140a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0Z"/>
+      <g fill="#000">
+        <circle cx="15" cy="15" r="5"/><circle cx="33" cy="15" r="5"/><circle cx="51" cy="15" r="5"/><circle cx="69" cy="15" r="5"/><circle cx="87" cy="15" r="5"/><circle cx="105" cy="15" r="5"/>
+      </g>
+      <g fill="none" stroke="#000" stroke-width="7" stroke-linecap="round">
+        <path d="M16 46q14-16 28 0t28 0t28 0"/>
+        <path d="M16 68q14-16 28 0t28 0t28 0"/>
+        <path d="M16 90q14-16 28 0t28 0t28 0"/>
+        <path d="M16 112q14-16 28 0t28 0t28 0"/>
+      </g>
+      <g fill="#000">
+        <path d="M20 122l6 6-6 6-6-6zM40 122l6 6-6 6-6-6zM60 122l6 6-6 6-6-6zM80 122l6 6-6 6-6-6zM100 122l6 6-6 6-6-6z"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="120" height="160" mask="url(#m)"/>
+</svg>

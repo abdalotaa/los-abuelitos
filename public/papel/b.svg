@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160">
+  <defs>
+    <mask id="m">
+      <path fill="#fff" d="M0 0H120V140a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0a10 12 0 0 1-20 0Z"/>
+      <g fill="#000">
+        <rect x="13" y="7" width="6" height="15" rx="3"/><rect x="29" y="7" width="6" height="15" rx="3"/><rect x="45" y="7" width="6" height="15" rx="3"/><rect x="69" y="7" width="6" height="15" rx="3"/><rect x="85" y="7" width="6" height="15" rx="3"/><rect x="101" y="7" width="6" height="15" rx="3"/>
+        <path d="M12 32H50L12 68ZM108 32H70L108 68ZM12 114H50L12 78ZM108 114H70L108 78Z"/>
+        <path d="M60 55l16 18-16 18-16-18z"/>
+        <circle cx="60" cy="38" r="5"/><circle cx="60" cy="108" r="5"/><circle cx="26" cy="73" r="5"/><circle cx="94" cy="73" r="5"/>
+        <path d="M14 134l8-11 8 11zM35 134l8-11 8 11zM56 134l8-11 8 11zM77 134l8-11 8 11zM98 134l8-11 8 11z" transform="translate(-4 0)"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="120" height="160" mask="url(#m)"/>
+</svg>
